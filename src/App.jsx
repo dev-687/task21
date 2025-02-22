@@ -84,8 +84,8 @@ function App() {
       description:"Image Description for IMG ",
       img:img1
     },
-    
-  
+
+
   ];
 
   return (
